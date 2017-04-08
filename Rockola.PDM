@@ -1,0 +1,502 @@
+[Root]
+Most Recent Package=Paquete de Instalación Rockola
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=D:\Rockola\Package
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+Kernel.DLL=
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\WINDOWS\system32\msdxm.ocx=
+C:\WINDOWS\system32\wmp.dll=
+C:\WINDOWS\system32\TBack.ocx=
+C:\WINDOWS\system32\ctmedit.ocx=
+D:\Rockola\MPSetupXP.exe=
+D:\Rockola\FOXTOOLS.FLL=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MCI32.OCX=
+
+[Package|Dep File 1|Files Added]
+D:\Rockola\MPSetupXP.exe=
+D:\Rockola\fondo.jpg=
+D:\Rockola\library.dll=
+D:\Rockola\path.ini=
+D:\Rockola\FOXTOOLS.FLL=
+
+[Package|Dep File 1|Files Removed]
+d:\rockola\path.ini=
+
+[Package|Dep File 1|Files In Project]
+D:\Rockola\Rockola.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=Yes
+C:\WINDOWS\system32\ctmedit.ocx=Yes
+C:\WINDOWS\system32\TBack.ocx=Yes
+C:\WINDOWS\system32\MCI32.OCX=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\WINDOWS\system32\msdxm.ocx=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado25.tlb=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado15.dll=Yes
+D:\Rockola\MPSetupXP.exe=Yes
+D:\Rockola\fondo.jpg=Yes
+D:\Rockola\library.dll=Yes
+D:\Rockola\path.ini=No
+D:\Rockola\FOXTOOLS.FLL=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=No
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Dep File 1|Install Locations]
+D:\Rockola\Rockola.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\ctmedit.ocx=$(WinSysPath)
+C:\WINDOWS\system32\TBack.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MCI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\WINDOWS\system32\msdxm.ocx=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Archivos de programa\Archivos comunes\System\ado\msado25.tlb=$(CommonFilesSys)\ADO
+C:\Archivos de programa\Archivos comunes\System\ado\msado15.dll=$(CommonFilesSys)\ADO
+D:\Rockola\MPSetupXP.exe=$(AppPath)
+D:\Rockola\fondo.jpg=$(AppPath)
+D:\Rockola\library.dll=$(AppPath)
+D:\Rockola\FOXTOOLS.FLL=$(WinSysPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=Yes
+D:\Rockola\Rockola.exe=No
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Dep File 1|Distribution]
+Type=single
+Size=
+Title=Rockola
+
+[Package|Dep File 1|IconGroups]
+Group0=Rockola
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Dep File 1|Rockola]
+Icon1=Rockola.exe
+Title1=Rockola
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Dep File 1|DepFile]
+DepCabFile=Rockola.CAB
+DepCabRun=Rockola.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=D:\Rockola\Package
+ProjectFolder=D:\Rockola
+ServerSideCab=
+File1=D:\Rockola\Package\Rockola.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Rockola\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+Kernel.DLL=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\system32\msdxm.ocx=
+C:\WINDOWS\system32\wmp.dll=
+C:\WINDOWS\system32\TBack.ocx=
+C:\WINDOWS\system32\ctmedit.ocx=
+D:\Rockola\MPSetupXP.exe=
+D:\Rockola\FOXTOOLS.FLL=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MCI32.OCX=
+
+[Package|Standard Setup Package 1|Files Added]
+D:\Rockola\MPSetupXP.exe=
+D:\Rockola\library.dll=
+D:\Rockola\FOXTOOLS.FLL=
+D:\Rockola\fondo.jpg=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+D:\Rockola\Rockola.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=Yes
+C:\WINDOWS\system32\ctmedit.ocx=Yes
+C:\WINDOWS\system32\TBack.ocx=Yes
+C:\WINDOWS\system32\MCI32.OCX=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\WINDOWS\system32\msdxm.ocx=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Rockola\MPSetupXP.exe=Yes
+D:\Rockola\library.dll=Yes
+D:\Rockola\FOXTOOLS.FLL=Yes
+D:\Rockola\fondo.jpg=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\Rockola\Rockola.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\ctmedit.ocx=$(WinSysPath)
+C:\WINDOWS\system32\TBack.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MCI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\WINDOWS\system32\msdxm.ocx=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Rockola\MPSetupXP.exe=$(AppPath)
+D:\Rockola\library.dll=$(AppPath)
+D:\Rockola\FOXTOOLS.FLL=$(WinSysPath)
+D:\Rockola\fondo.jpg=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\Rockola\Rockola.exe=No
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\Rockola\MPSetupXP.exe=No
+D:\Rockola\library.dll=No
+D:\Rockola\fondo.jpg=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Rockola
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=D:\Rockola\Package
+ProjectFolder=D:\Rockola
+ServerSideCab=
+File1=D:\Rockola\Package\setup.exe
+File2=D:\Rockola\Package\Setup.Lst
+File3=D:\Rockola\Package\Rockola.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Rockola
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Rockola]
+Icon1=Rockola.exe
+Title1=Rockola
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Paquete de Instalación Rockola|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Rockola\New Folder
+
+[Package|Paquete de Instalación Rockola|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Paquete de Instalación Rockola|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de Instalación Rockola|Files Found]
+MPSetupXP.exe=D:\Rockola\Utiles\MPSetupXP.exe
+
+[Package|Paquete de Instalación Rockola|Files Released]
+Kernel.DLL=
+MDAC_TYP2.EXE=
+
+[Package|Paquete de Instalación Rockola|Missing Dependency Information]
+C:\WINDOWS\system32\msdxm.ocx=
+C:\WINDOWS\system32\wmp.dll=
+C:\WINDOWS\system32\TBack.ocx=
+C:\WINDOWS\system32\ctmedit.ocx=
+D:\Rockola\MPSetupXP.exe=
+D:\Rockola\FOXTOOLS.FLL=
+D:\Rockola\Utiles\MPSetupXP.exe=
+D:\Rockola\OCX\bbGetDir.ocx=
+C:\WINDOWS\system32\ctnedit.ocx=
+C:\WINDOWS\system32\ctclock.ocx=
+D:\Rockola\Utiles\VFP8SP1RT.EXE=
+D:\Rockola\DLL\library.tlb=
+D:\Rockola\Utiles\MDAC_TYP2.EXE=
+D:\Rockola\Utiles\MDAC_TYP_2.0.EXE=
+C:\WINDOWS\system32\bbGetDir.ocx=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\Archivos de programa\Archivos comunes\System\ado\msado25.tlb=
+D:\Rockola\ViewKeyXP.exe=
+
+[Package|Paquete de Instalación Rockola|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MCI32.OCX=
+C:\WINDOWS\system32\richtx32.ocx=
+C:\WINDOWS\system32\mscomctl.ocx=
+C:\WINDOWS\system32\tabctl32.ocx=
+C:\WINDOWS\system32\mscomct2.ocx=
+
+[Package|Paquete de Instalación Rockola|Files Added]
+mpsetupxp.exe=
+d:\rockola\library.dll=
+d:\rockola\foxtools.fll=
+d:\rockola\fondo.jpg=
+d:\rockola\utiles\vfp8sp1rt.exe=
+d:\rockola\dll\library.tlb=
+d:\rockola\dll\library.vbr=
+d:\rockola\utiles\mdac_typ_2.0.exe=
+d:\rockola\utiles\letras\digitaldream.ttf=
+d:\rockola\utiles\letras\digitaldreamfat.ttf=
+d:\rockola\utiles\letras\digitaldreamfatnarrow.ttf=
+d:\rockola\utiles\letras\digitaldreamfatskew.ttf=
+d:\rockola\utiles\letras\digitaldreamfatskewnarrow.ttf=
+d:\rockola\utiles\letras\digitaldreamnarrow.ttf=
+d:\rockola\utiles\letras\digitaldreamskew.ttf=
+d:\rockola\utiles\letras\digitaldreamskewnarrow.ttf=
+d:\rockola\utiles\programmer notepad_1.2.1.exe=
+D:\Rockola\ViewKeyXP.exe=
+
+[Package|Paquete de Instalación Rockola|Files Removed]
+c:\archivos de programa\microsoft visual studio\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+
+[Package|Paquete de Instalación Rockola|Files In Project]
+D:\Rockola\Rockola.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=Yes
+C:\WINDOWS\system32\ctmedit.ocx=Yes
+C:\WINDOWS\system32\TBack.ocx=Yes
+C:\WINDOWS\system32\MCI32.OCX=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Rockola\library.dll=Yes
+D:\Rockola\FOXTOOLS.FLL=Yes
+D:\Rockola\fondo.jpg=Yes
+C:\WINDOWS\system32\ctclock.ocx=Yes
+C:\WINDOWS\system32\ctnedit.ocx=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+D:\Rockola\Utiles\MPSetupXP.exe=Yes
+D:\Rockola\Utiles\VFP8SP1RT.EXE=Yes
+D:\Rockola\DLL\library.tlb=Yes
+D:\Rockola\DLL\library.VBR=Yes
+C:\WINDOWS\system32\AUTPRX32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Clireg\CLIREG32.EXE=Yes
+D:\Rockola\Utiles\MDAC_TYP_2.0.EXE=Yes
+D:\Rockola\Utiles\letras\DIGITALDREAM.TTF=Yes
+D:\Rockola\Utiles\letras\DIGITALDREAMFAT.ttf=Yes
+D:\Rockola\Utiles\letras\DIGITALDREAMFATNARROW.ttf=Yes
+D:\Rockola\Utiles\letras\DIGITALDREAMFATSKEW.ttf=Yes
+D:\Rockola\Utiles\letras\DIGITALDREAMFATSKEWNARROW.ttf=Yes
+D:\Rockola\Utiles\letras\DIGITALDREAMNARROW.ttf=Yes
+D:\Rockola\Utiles\letras\DIGITALDREAMSKEW.ttf=Yes
+D:\Rockola\Utiles\letras\DIGITALDREAMSKEWNARROW.ttf=Yes
+D:\Rockola\Utiles\Programmer Notepad_1.2.1.exe=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado25.tlb=Yes
+C:\WINDOWS\system32\bbGetDir.ocx=Yes
+C:\WINDOWS\system32\MSCOMM32.OCX=Yes
+C:\WINDOWS\system32\tabctl32.ocx=Yes
+C:\WINDOWS\system32\mscomctl.ocx=Yes
+C:\WINDOWS\system32\richtx32.ocx=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+D:\Rockola\ViewKeyXP.exe=Yes
+
+[Package|Paquete de Instalación Rockola|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de Instalación Rockola|Configure Remote Servers]
+Applicable=Yes
+D:\Rockola\DLL\library.VBR=,DCOM
+
+[Package|Paquete de Instalación Rockola|Install Locations]
+D:\Rockola\Rockola.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\ctmedit.ocx=$(WinSysPath)
+C:\WINDOWS\system32\TBack.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MCI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+C:\WINDOWS\system32\msdxm.ocx=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Rockola\MPSetupXP.exe=$(AppPath)
+D:\Rockola\library.dll=$(WinSysPath)
+D:\Rockola\FOXTOOLS.FLL=$(WinSysPath)
+D:\Rockola\fondo.jpg=$(AppPath)
+C:\WINDOWS\system32\ctclock.ocx=$(WinSysPath)
+C:\WINDOWS\system32\ctnedit.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+D:\Rockola\OCX\bbGetDir.ocx=$(WinSysPath)
+D:\Rockola\Utiles\MPSetupXP.exe=$(AppPath)
+D:\Rockola\Utiles\VFP8SP1RT.EXE=$(AppPath)
+D:\Rockola\DLL\library.tlb=$(WinSysPath)
+D:\Rockola\DLL\library.VBR=$(WinSysPath)
+C:\WINDOWS\system32\AUTPRX32.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\Common\Tools\Clireg\CLIREG32.EXE=$(WinSysPath)
+D:\Rockola\Utiles\MDAC_TYP2.EXE=$(AppPath)
+D:\Rockola\Utiles\MDAC_TYP_2.0.EXE=$(AppPath)
+D:\Rockola\Utiles\letras\DIGITALDREAM.TTF=$(Font)
+D:\Rockola\Utiles\letras\DIGITALDREAMFAT.ttf=$(Font)
+D:\Rockola\Utiles\letras\DIGITALDREAMFATNARROW.ttf=$(Font)
+D:\Rockola\Utiles\letras\DIGITALDREAMFATSKEW.ttf=$(Font)
+D:\Rockola\Utiles\letras\DIGITALDREAMFATSKEWNARROW.ttf=$(Font)
+D:\Rockola\Utiles\letras\DIGITALDREAMNARROW.ttf=$(Font)
+D:\Rockola\Utiles\letras\DIGITALDREAMSKEW.ttf=$(Font)
+D:\Rockola\Utiles\letras\DIGITALDREAMSKEWNARROW.ttf=$(Font)
+D:\Rockola\Utiles\Programmer Notepad_1.2.1.exe=$(AppPath)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Archivos comunes\System\ado\msado25.tlb=$(WinSysPath)
+C:\WINDOWS\system32\bbGetDir.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\richtx32.ocx=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+D:\Rockola\ViewKeyXP.exe=$(AppPath)
+
+[Package|Paquete de Instalación Rockola|Configure Shared Files]
+Applicable=Yes
+D:\Rockola\Rockola.exe=No
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\Rockola\MPSetupXP.exe=No
+D:\Rockola\library.dll=No
+D:\Rockola\fondo.jpg=No
+D:\Rockola\Utiles\MPSetupXP.exe=No
+D:\Rockola\Utiles\VFP8SP1RT.EXE=No
+D:\Rockola\Utiles\MDAC_TYP2.EXE=No
+D:\Rockola\Utiles\MDAC_TYP_2.0.EXE=No
+D:\Rockola\Utiles\Programmer Notepad_1.2.1.exe=No
+D:\Rockola\ViewKeyXP.exe=Yes
+
+[Package|Paquete de Instalación Rockola|Distribution]
+Type=single
+Size=
+Title=Rockola
+
+[Package|Paquete de Instalación Rockola|IconGroups]
+Group0=Rockola
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|Paquete de Instalación Rockola|Rockola]
+Icon1=Rockola.exe
+Title1=Rockola
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete de Instalación Rockola|Package]
+PackageFolder=D:\Rockola\New Folder
+ProjectFolder=D:\Rockola
+ServerSideCab=
+File1=D:\Rockola\New Folder\setup.exe
+File2=D:\Rockola\New Folder\Setup.Lst
+File3=D:\Rockola\New Folder\Rockola.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

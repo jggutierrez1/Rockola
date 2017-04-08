@@ -1,0 +1,42 @@
+06-06-2007
+Entre las modificasines hechas para esta fecha se pueden mencionar:
+1. Mejoras internas en los timers de servicio para los blinkers de los mensajes y resaltos de colores.
+2. Se añadio un indicador de duración de la cansión y el tiempo que lleva transcurrido desde que inicio el tema.
+3. se crearón mejoras al uso de contraseñas para la Fonola. Se colocó un chekbox para activar y desactivar la opcion de contraseña.
+Se hicierón mejoras significantes en el código del programa con respecto a esta opcion.
+en el archivo PATH.INI en la sección de [ROCKOLA] se agregó una variable llamada PASSW__BOX=0 cuyo valor es cero cuandoe para indicar que se desactivó la opcion de password.
+esta opción permite tener un password configurado y activarlo y desactivarlo sin tener que borrar el password.
+4. Se agregó la posibilidad de interactuar entre los FILES de canciones y los FILES de karaoke con la tecla K.
+5. Se agregó un programa especial \ROCKOLA\R_monitor.EXE el cual es un monitor he interprete de ordenes que vienen desde la rockola
+y se agregó uan variable  en el archivo PATH.INI en la sección de [ROCKOLA] se agregó una variable llamada RELOAD_APP=0 que le indica al monitor cuando debe reiniciar la rockola
+como es el caso de los karaokes la rockola invoca al monitor para que la reinicie y cargar los FILES de karaoke.
+6. Se hicieron cambios en el archivo PATH.INI en la sección de [PATHS] donde la variable de DIR_FILES fue reemplada por dos variables DIR_FL1=D:\Rockola\Files1 y DIR_FL2=D:\Rockola\Files2
+para que la rockola pueda intercambiar los files de canciones y karaokes.
+7. Se creó una variables nuevas en el archivo PATH.INI en la sección de [KEYBOARD] KB_SWTKAR=K, para indicar la tecla correspondientes de karaoke 
+8. Se creó una variables nuevas en el archivo PATH.INI en la sección de [KEYBOARD] KB__PAUSE=L, para indicar la tecla correspondientes a la pausa que solo funciona para los videos, en este caso karaoke.
+9. Se agregaron cronometros de cerrado automatico de 40 y 30 segundos a las pantallas de servicio de la rockola.
+10. Se hicieron mejoras para tener la posibilidad de desactivar las validacions de FECHA, DISCODURO, PROCESADOR  y para no borrar automaticamente el activador de la rockola.
+indicadas en el archivo PATH.INI en la sección de [RESERVED] con las variables NMOTHVALID=0 ,NDISCVALID=0, NDATEVALID=0, DELETEACTI=0;
+pero sólo funcionan moviedolas a la sección de [GENERAL].
+11. Se agregó un indicador para sabe si esta actyivado el screensaver....
+12. Se agregó memoria de discos, para que cuando se marque un tema al regresar al disco quede en la misma páina de disco que cuanoid se hizo la selección.
+13. Se repararon problemas con los créditos gratis, se añadió el letrero de crédito grátis, y se corregieron problemas con el sistema actual
+que aún en credito gratis necesitaba almenos un crédito para operar.
+14. Se añadió opciones para operar con TOUCHSCREN en todas las pantallas de géneros, discos y temas.
+15. Se alargaron los campos de géneros y temas para que los mismos presenten la información completa y no cortada como lo hacia el sistemas actual.
+16. Se corrigieron errores en la activación del sistemas.
+17. Se hizo una corrección al el sistemas que etiqueta los discos con videos por medio de la funcion SINC_VID, ya que el sistemas actual en ocasiones miestra discos con video y en realidad no tienen videos.
+18. Par algunos problemas en instañlaciones recientes se cabio le nombre del archivo PATH.INI por PATHV2.INI, para no enredar los archis de configuraciones de ambas versiones.
+19. Se hicieron correciones en el modulo de activación en la cual se actualizaba una variable que ya no se usa:. DIR_FLS
+20. Se añadió un parametros ""SERVICES" y una contraseña, se puede acceder a la pantalla de SERVICIOS  de la rockola.
+21. Se añadió otro parametro "CONVERSION" en el cual se puede convertir los files DBF en TAB. 
+22. Se anadió otro parametro "ACTIVATE" que acompañado con una contraseña standard se puede activar la rockola sin necesidad de usar el proigrama activador.
+23. Cuando e sistema inicia se añadieron varias funciones especiales que verifican las tablas por medio de check_integ_01, check_integ_03, check_integ_03, check_integ_05.
+en la cual la rockola actual reconoce y acepta archivos DBF de la rochola de VISUAL FOXPRO.
+24. Para ofrecer mas soporte en algunas funciones añadidas se ha modificado pro completo el archivo library.dll por la cual en su instalación devera registrarse en el sistemas.
+25. para hacer el registro de la librerias mas sencillo y fàcil se añadio una herramienta en el directoriod e rockola :. ccrpRegUtil.exe.
+26. Se hicieron correcciones en en los discos; cuando la caràtula del disco no existe , muestra los demàs datos normales de manera que se pueda tocar el disco.
+27. se agrego una variable de sistema UPDNEW_FLG en sección de [GENERAL], en el archivo pathv2.ini donde se le indica la cantidad de dias a partir de la fecha que se metio el disco a rockola indicara al sistema si el disco es nuevo o viejo.
+es decir si UPDNEW_FLG=20, la fecha de creacion desl disco mas 20 dias si es menor a la fecha de la computadora el disco es nuevo, de lo contrario el disco es viejo.
+28. se agrego una variable del sistema SHOW_MOUSE en sección de [GENERAL], en el archivo pathv2.ini, donde se indica si se muestra el puntero o no del raton.
+

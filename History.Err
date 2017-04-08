@@ -1,0 +1,212 @@
+Error number: 1734 - Error message: No se encuentra la propiedad ID_CAN. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 53 - Program with error: FORM1.OPTIONCONTAINER1.OPTIONGROUP.VALID
+Error number: 1734 - Error message: No se encuentra la propiedad ID_CAN. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 15 - Program with error: FORM1.OPTIONCONTAINER1.OPTIONGROUP.CLICK
+Error number: 1734 - Error message: No se encuentra la propiedad DE_CAN. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 1 - Program with error: FORM_SRV_M.COMMAND3.VALID
+Error number: 1734 - Error message: No se encuentra la propiedad DE_CAN. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 1 - Program with error: FORM1.PAGEFRAME1.PAGE2.OTDE_CAN.VALID
+Error number: 1734 - Error message: No se encuentra la propiedad DE_CAN. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 2 - Program with error: FORM1.PAGEFRAME1.PAGE2.OTDE_CAN.VALID
+Error number: 1734 - Error message: No se encuentra la propiedad ID_CAN. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 57 - Program with error: FORM1.OPTIONCONTAINER1.OPTIONGROUP.VALID
+Error number: 1734 - Error message: No se encuentra la propiedad ID_CAN. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 15 - Program with error: FORM1.OPTIONCONTAINER1.OPTIONGROUP.CLICK
+Error number: 1734 - Error message: No se encuentra la propiedad DE_CAN. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 1 - Program with error: FORM_SRV_M.COMMAND3.VALID
+Error number: 1734 - Error message: No se encuentra la propiedad DE_CAN. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 1 - Program with error: FORM1.PAGEFRAME1.PAGE2.OTDE_CAN.VALID
+Error number: 1734 - Error message: No se encuentra la propiedad DE_CAN. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 2 - Program with error: FORM1.PAGEFRAME1.PAGE2.OTDE_CAN.VALID
+Error number: 1734 - Error message: No se encuentra la propiedad FL_MP3. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 49 - Program with error: MAIN
+Error number: 1734 - Error message: No se encuentra la propiedad DE_CAN. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 1 - Program with error: FORM1.PAGEFRAME1.PAGE2.OTDE_CAN.VALID
+Error number: 1734 - Error message: No se encuentra la propiedad DE_CAN. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 2 - Program with error: FORM1.PAGEFRAME1.PAGE2.OTDE_CAN.VALID
+Error number: 1705 - Error message: Denegado d:\rockola\files1\file03.dbf al acceso al archivo. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 642 - Program with error: CHECK_INTEG_03
+Error number: 13 - Error message: No se encuentra el alias 'FILE03'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 643 - Program with error: CHECK_INTEG_03
+Error number: 52 - Error message: No hay ninguna tabla abierta en el área de trabajo actual. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 644 - Program with error: CHECK_INTEG_03
+Error number: 52 - Error message: No hay ninguna tabla abierta en el área de trabajo actual. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 645 - Program with error: CHECK_INTEG_03
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 647 - Program with error: CHECK_INTEG_03
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 650 - Program with error: CHECK_INTEG_03
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 653 - Program with error: CHECK_INTEG_03
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 656 - Program with error: CHECK_INTEG_03
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 659 - Program with error: CHECK_INTEG_03
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 662 - Program with error: CHECK_INTEG_03
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 665 - Program with error: CHECK_INTEG_03
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 668 - Program with error: CHECK_INTEG_03
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 671 - Program with error: CHECK_INTEG_03
+Error number: 12 - Error message: No se encuentra la variable 'C_KAR'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 676 - Program with error: CHECK_INTEG_03
+Error number: 12 - Error message: No se encuentra la variable 'C_PROMO'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 685 - Program with error: CHECK_INTEG_03
+Error number: 12 - Error message: No se encuentra la variable 'FL_KAG'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 694 - Program with error: CHECK_INTEG_03
+Error number: 12 - Error message: No se encuentra la variable 'ID_GEN'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 697 - Program with error: CHECK_INTEG_03
+Error number: 1806 - Error message: SQL: no se encuentra la columna 'DATETIME'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 29 - Program with error: FORM1.SAVECONTAINER1.SAVEGROUP.VALID
+Error number: 1924 - Error message: OFILE03 no es un objeto. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 11 - Program with error: FORM1.PAGEFRAME1.PAGE1.LIST1.CLICK
+Error number: 1924 - Error message: OFILE03 no es un objeto. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 11 - Program with error: FORM1.PAGEFRAME1.PAGE1.LIST1.CLICK
+Error number: 1705 - Error message: Denegado d:\rockola\files1\file02.dbf al acceso al archivo. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 541 - Program with error: CHECK_INTEG_02
+Error number: 13 - Error message: No se encuentra el alias 'FILE02'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 542 - Program with error: CHECK_INTEG_02
+Error number: 52 - Error message: No hay ninguna tabla abierta en el área de trabajo actual. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 543 - Program with error: CHECK_INTEG_02
+Error number: 52 - Error message: No hay ninguna tabla abierta en el área de trabajo actual. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 544 - Program with error: CHECK_INTEG_02
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 546 - Program with error: CHECK_INTEG_02
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 549 - Program with error: CHECK_INTEG_02
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 552 - Program with error: CHECK_INTEG_02
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 555 - Program with error: CHECK_INTEG_02
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 558 - Program with error: CHECK_INTEG_02
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 561 - Program with error: CHECK_INTEG_02
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 564 - Program with error: CHECK_INTEG_02
+Error number: 12 - Error message: No se encuentra la variable 'D_PROMO'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 587 - Program with error: CHECK_INTEG_02
+Error number: 12 - Error message: No se encuentra la variable 'D_KAR'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 596 - Program with error: CHECK_INTEG_02
+Error number: 1924 - Error message: OFILE03 no es un objeto. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 11 - Program with error: FORM1.PAGEFRAME1.PAGE1.LIST1.CLICK
+Error number: 1924 - Error message: OFILE03 no es un objeto. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 11 - Program with error: FORM1.PAGEFRAME1.PAGE1.LIST1.CLICK
+Error number: 1924 - Error message: OFILE03 no es un objeto. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 11 - Program with error: FORM1.PAGEFRAME1.PAGE1.LIST1.CLICK
+Error number: 1924 - Error message: OFILE03 no es un objeto. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 20 - Program with error: FORM1.PAGEFRAME1.PAGE2.OLST_DIS2.VALID
+Error number: 1924 - Error message: OFILE03 no es un objeto. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 21 - Program with error: FORM1.PAGEFRAME1.PAGE2.OLST_DIS2.VALID
+Error number: 1705 - Error message: Denegado d:\rockola\files1\file03.dbf al acceso al archivo. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 642 - Program with error: CHECK_INTEG_03
+Error number: 13 - Error message: No se encuentra el alias 'FILE03'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 643 - Program with error: CHECK_INTEG_03
+Error number: 52 - Error message: No hay ninguna tabla abierta en el área de trabajo actual. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 644 - Program with error: CHECK_INTEG_03
+Error number: 52 - Error message: No hay ninguna tabla abierta en el área de trabajo actual. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 645 - Program with error: CHECK_INTEG_03
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 647 - Program with error: CHECK_INTEG_03
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 650 - Program with error: CHECK_INTEG_03
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 653 - Program with error: CHECK_INTEG_03
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 656 - Program with error: CHECK_INTEG_03
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 659 - Program with error: CHECK_INTEG_03
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 662 - Program with error: CHECK_INTEG_03
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 665 - Program with error: CHECK_INTEG_03
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 668 - Program with error: CHECK_INTEG_03
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 671 - Program with error: CHECK_INTEG_03
+Error number: 12 - Error message: No se encuentra la variable 'C_KAR'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 676 - Program with error: CHECK_INTEG_03
+Error number: 12 - Error message: No se encuentra la variable 'C_PROMO'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 685 - Program with error: CHECK_INTEG_03
+Error number: 12 - Error message: No se encuentra la variable 'FL_KAG'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 694 - Program with error: CHECK_INTEG_03
+Error number: 12 - Error message: No se encuentra la variable 'ID_GEN'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 697 - Program with error: CHECK_INTEG_03
+Error number: 1705 - Error message: Denegado d:\rockola\files1\file01.dbf al acceso al archivo. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 485 - Program with error: CHECK_INTEG_01
+Error number: 13 - Error message: No se encuentra el alias 'FILE01'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 486 - Program with error: CHECK_INTEG_01
+Error number: 52 - Error message: No hay ninguna tabla abierta en el área de trabajo actual. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 487 - Program with error: CHECK_INTEG_01
+Error number: 52 - Error message: No hay ninguna tabla abierta en el área de trabajo actual. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 488 - Program with error: CHECK_INTEG_01
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 490 - Program with error: CHECK_INTEG_01
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 493 - Program with error: CHECK_INTEG_01
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 496 - Program with error: CHECK_INTEG_01
+Error number: 12 - Error message: No se encuentra la variable 'G_KAR'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 501 - Program with error: CHECK_INTEG_01
+Error number: 13 - Error message: No se encuentra el alias 'OFILE02'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 10 - Program with error: FORM1.PAGEFRAME1.PAGE1.LIST1.CLICK
+Error number: 13 - Error message: No se encuentra el alias 'OFILE02'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 11 - Program with error: FORM1.PAGEFRAME1.PAGE1.LIST1.CLICK
+Error number: 13 - Error message: No se encuentra el alias 'OFILE02'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 10 - Program with error: FORM1.PAGEFRAME1.PAGE1.LIST1.CLICK
+Error number: 13 - Error message: No se encuentra el alias 'OFILE02'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 11 - Program with error: FORM1.PAGEFRAME1.PAGE1.LIST1.CLICK
+Error number: 13 - Error message: No se encuentra el alias 'OFILE02'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 10 - Program with error: FORM1.PAGEFRAME1.PAGE1.LIST1.CLICK
+Error number: 13 - Error message: No se encuentra el alias 'OFILE02'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 11 - Program with error: FORM1.PAGEFRAME1.PAGE1.LIST1.CLICK
+Error number: 13 - Error message: No se encuentra el alias 'OFILE02'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 10 - Program with error: FORM1.PAGEFRAME1.PAGE1.LIST1.CLICK
+Error number: 13 - Error message: No se encuentra el alias 'OFILE02'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 11 - Program with error: FORM1.PAGEFRAME1.PAGE1.LIST1.CLICK
+Error number: 1705 - Error message: Denegado d:\rockola\files1\file02.dbf al acceso al archivo. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 541 - Program with error: CHECK_INTEG_02
+Error number: 13 - Error message: No se encuentra el alias 'FILE02'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 542 - Program with error: CHECK_INTEG_02
+Error number: 52 - Error message: No hay ninguna tabla abierta en el área de trabajo actual. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 543 - Program with error: CHECK_INTEG_02
+Error number: 52 - Error message: No hay ninguna tabla abierta en el área de trabajo actual. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 544 - Program with error: CHECK_INTEG_02
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 546 - Program with error: CHECK_INTEG_02
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 549 - Program with error: CHECK_INTEG_02
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 552 - Program with error: CHECK_INTEG_02
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 555 - Program with error: CHECK_INTEG_02
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 558 - Program with error: CHECK_INTEG_02
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 561 - Program with error: CHECK_INTEG_02
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 564 - Program with error: CHECK_INTEG_02
+Error number: 12 - Error message: No se encuentra la variable 'D_PROMO'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 587 - Program with error: CHECK_INTEG_02
+Error number: 12 - Error message: No se encuentra la variable 'D_KAR'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 596 - Program with error: CHECK_INTEG_02
+Error number: 1705 - Error message: Denegado d:\rockola\files1\file01.dbf al acceso al archivo. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 485 - Program with error: CHECK_INTEG_01
+Error number: 13 - Error message: No se encuentra el alias 'FILE01'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 486 - Program with error: CHECK_INTEG_01
+Error number: 52 - Error message: No hay ninguna tabla abierta en el área de trabajo actual. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 487 - Program with error: CHECK_INTEG_01
+Error number: 52 - Error message: No hay ninguna tabla abierta en el área de trabajo actual. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 488 - Program with error: CHECK_INTEG_01
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 490 - Program with error: CHECK_INTEG_01
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 493 - Program with error: CHECK_INTEG_01
+Error number: 11 - Error message: El valor, tipo o número de argumentos no es válido para la función. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 496 - Program with error: CHECK_INTEG_01
+Error number: 12 - Error message: No se encuentra la variable 'G_KAR'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 501 - Program with error: CHECK_INTEG_01
+Error number: 12 - Error message: No se encuentra la variable 'IVGEN'. - Line of code with error: DO d:\rockola\rockolamant.exe
+ - Line number of error: 112 - Program with error: FORM1.SAVECONTAINER1.SAVEGROUP.VALID

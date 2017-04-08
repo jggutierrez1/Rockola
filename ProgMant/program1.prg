@@ -1,0 +1,1 @@
+SET SYSMENU TO defa

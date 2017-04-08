@@ -1,0 +1,52 @@
+MOVE WINDOW SCREEN CENTER
+ZOOM WINDOW SCREEN MAX
+PRIVATE iErr1 AS INTEGER, iErr2 AS INTEGER
+STORE 0 TO iErr1,iErr2
+ON ERROR iErr1=1
+SET DEFAULT TO d:\Rockola
+IF iErr1=1 THEN
+	ON ERROR iErr2=1
+	SET DEFAULT TO (CURDIR())
+ENDIF
+RELEASE iErr1, iErr2
+SET PROCEDURE TO D:\Rockola\ProgMant\utIles.prg ADDITIVE
+ON ERROR controlerror(ERROR(), MESSAGE(), MESSAGE(1), PROGRAM(), LINENO())
+SET ESCAPE OFF
+SET TALK OFF
+SET CONSOLE OFF
+SET SAFETY OFF
+SET DATE DMY
+SET RESOURCE OFF
+SET CENTURY ON
+PUBLIC sgDir_Tmp AS STRING
+PUBLIC sgDir_Fls AS STRING
+PUBLIC sgDir_Fls1 AS STRING
+PUBLIC sgDir_Fls2 AS STRING
+PUBLIC sgDir_Img AS STRING
+PUBLIC sgDir_Mp3  AS STRING
+PUBLIC sgDir_Pub1 AS STRING
+PUBLIC sgDir_Pub2 AS STRING
+PUBLIC sgFle_Fon AS STRING
+PUBLIC nSW_Fls AS INTEGER
+PUBLIC nDay_UpdFlg AS Integer 
+PUBLIC bgDB_Cheked AS Boolean
+
+bgDB_Cheked=.F.
+sgDir_Tmp  = Read_Ini_File(".\PathV2.ini", "PATHS", "DIR_TMP", "")
+sgDir_Fls1 = Read_Ini_File(".\PathV2.ini", "PATHS", "DIR_FL1", "")
+sgDir_Fls2 = Read_Ini_File(".\PathV2.ini", "PATHS", "DIR_FL2", "")
+sgDir_Img  = Read_Ini_File(".\PathV2.ini", "PATHS", "DIR_IMG", "")
+sgDir_Mp3  = Read_Ini_File(".\PathV2.ini", "PATHS", "DIR_MP3", "")
+sgDir_Pub1 = Read_Ini_File(".\PathV2.ini", "PATHS", "DIR_PUB1", "")
+sgDir_Pub2 = Read_Ini_File(".\PathV2.ini", "PATHS", "DIR_PUB2", "")
+sgFle_Fon  = Read_Ini_File(".\PathV2.ini", "PATHS", "FILE_BACKG", "")
+nSW_Fls    = INT(VAL(Read_Ini_File(".\PathV2.ini", "GENERAL", "SWITCH_KAR"  , "0")))
+nDay_UpdFlg= INT(VAL(Read_Ini_File(".\PathV2.ini", "GENERAL", "UPDNEW_FLG"  , "60")))
+
+SET STATUS BAR OFF
+SET SYSMENU TO
+SET SYSMENU AUTOMATIC
+DO FORM D:\Rockola\ProgMant\form_srv_m
+ON SHUTDOWN
+CLEAR EVENTS
+QUIT
